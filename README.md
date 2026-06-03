@@ -26,19 +26,19 @@ Yaswanth Reddy
 
 ## RTL Design
 
-![RTL Design](rtl/WhatsApp Image 2026-06-03 at 15.03.51 (1).jpeg)
+![RTL Design](WhatsApp Image 2026-06-03 at 15.03.51 (1).jpeg)
 
 ## Reset Task
 
-![Reset Task](rtl/WhatsApp Image 2026-06-03 at 15.03.51.jpeg)
+![Reset Task](WhatsApp Image 2026-06-03 at 15.03.51.jpeg)
 
 ## Write Task
 
-![Write Task](rtl/WhatsApp Image 2026-06-03 at 15.03.50 (1).jpeg)
+![Write Task](WhatsApp Image 2026-06-03 at 15.03.50 (1).jpeg)
 
 ## Read Task
 
-![Read Task](rtl/WhatsApp Image 2026-06-03 at 15.03.50.jpeg)
+![Read Task](WhatsApp Image 2026-06-03 at 15.03.50.jpeg)
 
 ## Simulation Waveforms
 
