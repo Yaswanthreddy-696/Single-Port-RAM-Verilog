@@ -26,19 +26,19 @@ Yaswanth Reddy
 
 ## RTL Design
 
-![RTL Design](rtl/rtl_design.jpeg)
+![RTL Design](rtl_design.jpeg)
 
 ## Reset Task
 
-![Reset Task](rtl/task_reset.jpeg)
+![Reset Task](task_reset.jpeg)
 
 ## Write Task
 
-![Write Task](rtl/task_write.jpeg)
+![Write Task](task_write.jpeg)
 
 ## Read Task
 
-![Read Task](rtl/task_read.jpeg)
+![Read Task](task_read.jpeg)
 
 ## Simulation Waveforms
 
