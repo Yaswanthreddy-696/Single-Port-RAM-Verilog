@@ -42,6 +42,6 @@ Yaswanth Reddy
 
 ## Simulation Waveforms
 
-![Write Waveform](rtl/waveform_write.png)
+![Write Waveform](waveform_write.png)
 
-![Read Waveform](rtl/waveform_read.png)
+![Read Waveform](waveform_read.png)
